@@ -9,11 +9,11 @@ Este proyecto se basa en la interacción con bases de datos de **PostgreSQL**. E
 - Rellenar los campos con tu información en el fichero **db.properties**:
 
 ```
-host		      192.168.1.123
-port		      5432
+host		    192.168.1.123
+port		    5432
 dbname		    myanimelist
-user		      usuario
-password          password
+user		    usuario
+password            password
 schema    	    public
 ```
 
