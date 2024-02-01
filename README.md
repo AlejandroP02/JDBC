@@ -27,7 +27,7 @@ Para usar el programa es necesario haber creado la base de datos y dar los permi
   GRANT ALL PRIVILEGES ON DATABASE "myanimelist" TO usuario;
 ```
 
-> Si creas las tablas con un usuario que no sea el que has especificado en el **db.properties** escribe los siguientes comandos..
+> Si creas las tablas con un usuario que no sea el que has especificado en el **db.properties** escribe los siguientes comandos.
 
 ```
   alter table serie owner to usuario;
