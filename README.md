@@ -4,8 +4,9 @@ Este proyecto se basa en la interacción con bases de datos de **PostgreSQL**. E
 
 ## Requisitos
 
-- librería de **PostgreSQL**
-- librería de **OpenCSV**
+- Librería de **PostgreSQL**
+- Librería de **OpenCSV**
+- **OpenJDK-17** o superior
 - Rellenar los campos con tu información en el fichero **db.properties**:
 
 ```
